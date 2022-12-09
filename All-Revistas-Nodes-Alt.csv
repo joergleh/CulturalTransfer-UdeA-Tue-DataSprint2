@@ -1,0 +1,749 @@
+"id","name","weight"
+1,"Alpha",131
+2,"CULTURA",37
+3,"Hojas de Poesía",15
+4,"La Bohemia Alegre",32
+5,"La Gruta",80
+6,"Lectura Amena",139
+7,"Panida",84
+8,"Revista Alas",64
+9,"Revista Contemporánea",54
+10,"Revista Literaria",112
+11,"Revista Moderna",132
+12,"Trofeos",93
+13,"[Ilegible]",1
+14,"AA. VV.",1
+15,"Abella-Nouvrac, L",1
+16,"Abella Mendoza, Temístocles",2
+17,"Acevedo, Graciliano",1
+18,"Acosta de Samper, Soledad",3
+19,"Acosta, Javier",15
+20,"Acremant, Albert",1
+21,"Alba Barrenechea, Antonio",1
+22,"Alba, E.",1
+23,"Alcántara Jurado, Francisco",1
+24,"Allais, Alphonse",1
+25,"Altenberg, Peter",5
+26,"Álvarez Bonilla, Enrique",1
+27,"Álvarez R., Lisandro",1
+28,"Álvarez, Bernardo",1
+29,"Álvarez, Lisandro",1
+30,"Ángel Montoya, Alberto",1
+31,"Aparicio, Alberto",6
+32,"Arango Ferrer, Eleázar",4
+33,"Arango Ferrer, Javier",1
+34,"Arango M, Gabriel",1
+35,"Arango Mejía, Gabriel",2
+36,"Arboleda, Arturo",1
+37,"Arbós y Góngora",1
+38,"Arce, Julio César",5
+39,"Arciniegas, Ismael Enrique",2
+40,"Argüello, Agenor",1
+41,"Arias Argáez, Daniel",1
+42,"Asbjørnsen, Peter Christen",1
+43,"Azorin, Felipe",1
+44,"Bahr, Hermann",1
+45,"Banchs, Enrique",1
+46,"Barbier, Auguste",1
+47,"Barón, Felipe",2
+48,"Barrès, Maurice",3
+49,"Barreto, José María",1
+50,"Barriga Paez, J.",1
+51,"Barzini, Luigi",1
+52,"Bayona Posada, Jorge",3
+53,"Beaunier, André",1
+54,"Becerra, Ricardo",1
+55,"Bécquer, Gustavo Adolfo",1
+56,"Bedout, C. de",1
+57,"Bel, León",3
+58,"Bellaigue, Camile",1
+59,"Bello, Andrés",1
+60,"Benavente, Jacinto",3
+61,"Bengoechea, Alfredo de",1
+62,"Bernal, Luis A.",1
+63,"Betancourt Villegas, Félix",4
+64,"Biart, Lucien",1
+65,"Bilac, Olavo",1
+66,"Bissière, Roger",1
+67,"Blaine, James G.",1
+68,"Blanco Asenjo, Ricardo",1
+69,"Blanco Fombona, Rufino",10
+70,"Blanco y Sánchez, Rufino",2
+71,"Blanco, Héctor",1
+72,"Blanco, Ignacio",3
+73,"Blasco Ibáñez, Vicente",1
+74,"Blomberg, Héctor Pedro",1
+75,"Bloy, León",1
+76,"Bobadilla, Emilio",1
+77,"Bocquet, León",1
+78,"Böhl de Faber y Ruiz de Larrea, Cecilia",1
+79,"Bohorquez, Daniel",3
+80,"Bolívar, Simón",1
+81,"Bonilla, Manuel Antonio",2
+82,"Bonnard, Abel",1
+83,"Botero Guerra, Camilo",3
+84,"Botero Saldarriaga, Roberto",1
+85,"Botero, Emiro",2
+86,"Bouret, Alonso",1
+87,"Bourget, Paul",1
+88,"Breen, M.",1
+89,"Briand, Monsieur",1
+90,"Briceño, Manuel",2
+91,"Brisay, Henry de",2
+92,"Brooks, Adam",1
+93,"Bueno, Manuel",1
+94,"Bunster, Cesar",1
+95,"Burns, Robert",1
+96,"Cabello de Carbonera, Mercedes",2
+97,"Cadenas, José Juan",1
+98,"Caicedo Rojas, José",3
+99,"Calcaño, José A.",1
+100,"Calcaño, Julio",1
+101,"Calderón, Luis Eduardo",1
+102,"Camacho Ramírez, Arturo",5
+103,"Camacho Roldán, Salvador",2
+104,"Campo, Carlos Del",1
+105,"Campoamor, Ramón de",3
+106,"Cañas, Juan José",1
+107,"Cano Gutíérrez, Fidel",11
+108,"Cano Torres, Antonio José",9
+109,"Cano Villegas, Gabriel",1
+110,"Cano, Antonio José",9
+111,"Cano, Luis",11
+112,"Cantillo, Liborio D.",1
+113,"Capuana, Luigi",1
+114,"Carbonell, Gonzalo",1
+115,"Carducci, Giosuè",9
+116,"Caro, José Eusebio",10
+117,"Caro, Miguel Antonio",8
+118,"Carranza Fernández, Eduardo",9
+119,"Carrasquilla L., Juan de Dios",3
+120,"Carrasquilla, Ricardo",1
+121,"Carrasquilla, Tomás",15
+122,"Carreño, Pedro M.",1
+123,"Carrere, Emilio",1
+124,"Carricarte, Arturo R. de",1
+125,"Carriego, Evaristo",2
+126,"Carrillo, Enrique A.",5
+127,"Carvajal, Alberto",2
+128,"Carvajal, Manuel Antonio",21
+129,"Casal, Julián del",1
+130,"Casas Castañeda, José Joaquín",4
+131,"Casas Castañeda, Vicente",1
+132,"Castello, Carlos",4
+133,"Castello, Manuel",1
+134,"Castillo, Eduardo",8
+135,"Castro y Serrano, José de",1
+136,"Castro, Alfonso",11
+137,"Castro, Eugenio de",1
+138,"Cervantes, Edmundo",1
+139,"Cervera, Manuel",4
+140,"Céspedes, Ángel María",4
+141,"Cestero, Tulio",3
+142,"Chaves, J.R.",1
+143,"Chénier, André",1
+144,"Claretie, Jules",1
+145,"Claussen, Sophus",1
+146,"Clímaco, Silva",1
+147,"Cobban, J. MacLaren",1
+148,"Coll, Pedro Emilio",1
+149,"Colorado, Vicente",1
+150,"Comandante de Civrieux",1
+151,"Consuegra, Manuel S.",1
+152,"Cooke, John Esten",1
+153,"Coppée, François",2
+154,"Coradine, Alberto",8
+155,"Cordovez Moure, José María",1
+156,"Corral, M. Antonio del",1
+157,"Correa U., Emilio",4
+158,"Correa, Ramón",1
+159,"Covarrubias, Miguel",1
+160,"Cuervo Márquez, Carlos",6
+161,"Cuervo Márquez, Emilio",10
+162,"Cuervo, Luis Augusto",1
+163,"Cuervo, Rufino José",3
+164,"D'Annunzio, Gabriele",5
+165,"D'Avenel, Vizconde",1
+166,"D'Enjoÿ, Paul",1
+167,"D'Oribe, R.",7
+168,"d'Ors, Eugenio",7
+169,"D'Ors, Eugenio",2
+170,"Dahlgren, E.N.",1
+171,"Darío, Rubén",17
+172,"Daudet, Alphonse",3
+173,"Davray, Henry-D.",1
+174,"De Creta, Ruy",1
+175,"De la Cruz, Efraím",2
+176,"de la Cruz, Jorge",4
+177,"de la Rosa, Leopoldo",8
+178,"De Narváez, Antonio",1
+179,"de Parville, Henry",1
+180,"de Pombo, Lino",1
+181,"Delgado, Jorge E.",1
+182,"Deslys, Charles",1
+183,"Desroix, Jacques",1
+184,"Déubel, Leon",1
+185,"Díaz del Castillo, Ildefonso",1
+186,"Díaz Rodríguez, Manuel",1
+187,"Díaz Romero, Eugenio",2
+188,"Díaz, Leopoldo",4
+189,"Díaz, Pedro Pablo",1
+190,"Dicenta, Joaquín",8
+191,"Díez-Canedo, Enrique",1
+192,"Díez Canedo, Manuel",1
+193,"Diuribía, Marcel",1
+194,"Donato Navarro, M.",1
+195,"Dumas, Joël",2
+196,"Duque Bernal, Augusto",1
+197,"Duque Uribe, Rafael",4
+198,"E.P",1
+199,"Eastman, Maria",1
+200,"Eastman, Tomás O",2
+201,"Eça De Queiroz, José Maria",2
+202,"Echagüe, Francisco",1
+203,"Echavarría y Larrazábal, Raimundo",1
+204,"Echegorri, P.",1
+205,"Echeverri Peláez, Alfonso",4
+206,"Echeverri, Alonso",1
+207,"Echeverría, Eduardo",3
+208,"Echeverría, Marcelino",2
+209,"EDOS",1
+210,"Eraña, Silverio",1
+211,"Escobar Larrazábal, Melitón",8
+212,"Escobar Padilla, Cenón",1
+213,"Escobar R., Eusebio",1
+214,"Escobar Roa, Rafael",2
+215,"Escobar Rojo, Severo",4
+216,"Escobar Sarmiento, Ricardo",2
+217,"Escobar Uribe, Jorge",6
+218,"Escobar, F.S.",1
+219,"Escobar, Mario",3
+220,"Escobar, Pedro Ignacio",7
+221,"Esguerra Ortiz, Joaquín",1
+222,"Esguerra, Manuel",2
+223,"Espinosa Guzmán, Rafael",30
+224,"Esquivel Obregón, Toribio",1
+225,"Fallon Carrión, Diego",1
+226,"Febres Cordero, Tulio",1
+227,"Fernández Avendano, Enrique Wenceslao",4
+228,"Fernández García, Alejandro",3
+229,"Fernández Ríos, Ovidio",1
+230,"Ferrari, Emilio",1
+231,"Ferrer, Jesús",4
+232,"Ferrero, Guillermo",1
+233,"Floralba",3
+234,"Flórez, Julio",5
+235,"Fort, Paul",4
+236,"France, Anatole",1
+237,"Francés, José",1
+238,"Francisco, Julio de",5
+239,"Fx. B.",1
+240,"Gaitán O, Gustavo",1
+241,"Gaitán O., Gustavo",3
+242,"Galindo, Aníbal",1
+243,"Gálvez, Manuel (hijo)",1
+244,"Gamboa, Isaías",1
+245,"Gamboa, Mateo",1
+246,"Gamero, Luis",1
+247,"Garcés, Enrique",2
+248,"Garcia Calvo, Federico",1
+249,"García Ortiz, Laureano",3
+250,"Garcia Pujol, Domingo",3
+251,"García Rico, Francisco",1
+252,"García, Juan Crisóstomo",1
+253,"Garrido, Gilberto",1
+254,"Garrido, Pablo",1
+255,"Gartner, Hugo",1
+256,"Gautier, Judith",2
+257,"Gautier, Théophile",1
+258,"Gaviria Arango, Enrique",1
+259,"Gaviria, José A.",2
+260,"Gebhart, Émile",1
+261,"Gerin, Gabriel",1
+262,"Gide, André",3
+263,"Gil, Constantino",2
+264,"Gil, Ricardo",1
+265,"Gil, Rivero",20
+266,"Gill, Charles",1
+267,"Giraldo, Francisco",1
+268,"Giraud, Victor",1
+269,"Girón, Lázaro María",1
+270,"Gómez Barrientos, Estanislao",5
+271,"Gómez Carrillo, Enrique",9
+272,"Gómez de Baquero, Eduardo",2
+273,"Gómez E., Bernardo",2
+274,"Gómez Escobar, Francisco",4
+275,"Gomez Jaime de Abadia, Herminia",1
+276,"Gómez Jaime, Alfredo",4
+277,"Gomez Naranjo, Abelardo",2
+278,"Gómez Restrepo, Antonio María",18
+279,"Gómez, L.",4
+280,"Gómez, Lucas",1
+281,"Gómez, Pedro Nel",1
+282,"Gómez, Plinio",1
+283,"Gomperz, Theodor",4
+284,"Gonzaga Urbina, Luis",1
+285,"González Blanco, Andrés",4
+286,"González Martínez, Enrique",1
+287,"González Ochoa, Fernando",6
+288,"González Serrano, Urbano",1
+289,"González Suárez, Federico",1
+290,"González, Pelayo",2
+291,"Gorki, Maksim",1
+292,"Gourmont, Remy de",5
+293,"Goyau, Georges",1
+294,"Graf, Arturo",1
+295,"Gramont, Luciano",1
+296,"Grant, Allen",2
+297,"Gray, Mortimer",1
+298,"Greiff, León de",8
+299,"Greiff, Luis de",2
+300,"Greiner Aubin, Gabriel",1
+301,"Grillo, Maximiliano",23
+302,"Groot, José Manuel",1
+303,"Güell, Joaquín M.",7
+304,"Güell, Luis C.",1
+305,"Guérin, Charles",1
+306,"Guérin, Maurice de",1
+307,"Guerra Azuola, Ramón",2
+308,"Guerrero, Rafael",1
+309,"Guerrini, Olindo",1
+310,"Gutiérrez B., Germán",1
+311,"Gutiérrez de Alba, José María",1
+312,"Gutiérrez Robledo, Julio",1
+313,"Gutierrez, Adolfo León",1
+314,"Gutiérrez, Francisco A.",1
+315,"Guzmán, César Coronado",1
+316,"Hawthorne, Nathaniel",1
+317,"Hearn, Lafcadio",3
+318,"Henao Henao, Federico Carlos",11
+319,"Heredia Márquez, Francisco",1
+320,"Heredia, Francisco de",1
+321,"Heredia, José María de",11
+322,"Hermant, Abel",1
+323,"Hernández Catá, Alfonso",1
+324,"Herrán, Pablo Emilio",1
+325,"Herrera, Benjamín",1
+326,"Hinestroza Daza, Ricardo",4
+327,"Holguín y Caro, Hernando",2
+328,"Holguín, Jorge",2
+329,"Hoyos y Vinent, Antonio de",1
+330,"Hoyos, Sebastián",1
+331,"Hugo, Victor",1
+332,"Huysmans, Joris-Karl",1
+333,"Ibáñez, Pedro María",6
+334,"Icaza, Francisco A. de",1
+335,"Ingenieros, José",2
+336,"Isaacs, Jorge",3
+337,"Isaacs, Lísimaco",1
+338,"Isaza Botero, Teodomiro",5
+339,"Isaza Jaramillo, Teodomiro",3
+340,"Isaza R., Fernando",1
+341,"Isaza, Horacio",3
+342,"Jaloux, Edmond",1
+343,"Jammes, Francis",2
+344,"Jaramillo Arango, Rafael",7
+345,"Jaramillo Arango, Roberto",4
+346,"Jaramillo Medina, Francisco",5
+347,"Jaramillo Meza, Juan Bautista",1
+348,"Jaramillo P, Escipión",1
+349,"Jaramillo, Bernardo",7
+350,"Jaramillo, Emilio",1
+351,"Jaramillo, Escipión",4
+352,"Jaramillo, Joaquín Emilio",1
+353,"Jarnés, Benjamín",1
+354,"Jeunesse, Ernest La",1
+355,"Jiménez de la Espada, Marcos",2
+356,"Jiménez, Juan Ramón",4
+357,"Joubert, Joseph",1
+358,"Joufrez, Lila de",1
+359,"Kaminsky-Halpérine, Ilya",1
+360,"Khayyam, Omar",1
+361,"Kipling, Rudyard",2
+362,"L'Heureux, Marcel",1
+363,"Lamartine, Alphonse de",2
+364,"Lambert, Suzanne",1
+365,"Lapauze, Jeanne",1
+366,"Larrazábal, Antonio",1
+367,"Latorre Mendoza, Luis",2
+368,"Latorre, Gabriel",2
+369,"Laverde Amaya, Isidoro",15
+370,"Laverde Liévano, Manuel",1
+371,"Le Blond, M.",1
+372,"Le Breton, Fanny",2
+373,"Le Moyne, Arnaud Auguste Hilaire",3
+374,"Lemaître, Jules",1
+375,"Lemly, Henry Rowan",2
+376,"León Gómez, Adolfo",2
+377,"Leopardi, Giacomo",1
+378,"Level, Maurice",1
+379,"Lewisohn, Ludwig",1
+380,"Liborio Echavarría, D.",1
+381,"Lipparini, Giuseppe",1
+382,"Lisle, Leconte de",2
+383,"Lizardo, Pedro",1
+384,"LL. RR",1
+385,"Lleras A., Alfredo",2
+386,"Lleras Codazzi, Ricardo",1
+387,"Llorente, Teodoro",1
+388,"Londoño, Pedro P.",4
+389,"Londoño, Víctor Manuel",24
+390,"Longas, Horacio",4
+391,"López Alarcon, Enrique",1
+392,"López de Mesa, Luis",12
+393,"López Penha, Abraham Zacarías",1
+394,"López, Alejandro",2
+395,"López, Ismael",26
+396,"López, Luis Carlos",12
+397,"López, Samuel",1
+398,"Lorenzana, Máximo",1
+399,"Loti, Pierre",1
+400,"Louÿs, Pierre",2
+401,"Lozano y Lozano, Fabio",3
+402,"Lozano y Lozano, Juan",9
+403,"Lozano, Alberto",1
+404,"Lugones, Leopoldo",1
+405,"Machado, Gonzalo",1
+406,"Machado, Manuel",1
+407,"Maeterlinck, Maurice",3
+408,"Maizeroy, René",2
+409,"Mallarmé, Stéphane",1
+410,"Manrique, Juan E",1
+411,"Maragall, Juan",1
+412,"Marín, Abel",15
+413,"Márquez Bravo, Tomás",3
+414,"Marquina, Eduardo",3
+415,"Marroquín, José Manuel",1
+416,"Martel, L.",1
+417,"Martínez Rivas, Federico",1
+418,"Martínez Ruiz, José",4
+419,"Martínez Sierra, Gregorio",6
+420,"Martínez Silva, Carlos",1
+421,"Martón é Izaguirre, J.",1
+422,"Matos Hurtado, Belisario",1
+423,"May, Dick",1
+424,"Maya, Juan Antonio",2
+425,"Maya, Rafael",8
+426,"Mayorga Rivas, Román",1
+427,"Medina, Vicente",5
+428,"Mejía Ángel, Carlos",2
+429,"Mejía Ángel, Gustavo",2
+430,"Mejía Arango, Félix",14
+431,"Mejía V., Sebastián",1
+432,"Mejía, Epifanio",3
+433,"Mendès, Catulle",3
+434,"Mendive y Daumy, Rafael María de",1
+435,"Mendoza, Diego",4
+436,"Mercado, Julio",1
+437,"Merchán, Rafael María",5
+438,"Merino, Jesús A.",4
+439,"Merino, Laureano",2
+440,"Merizalde Uribe, Antonio",9
+441,"Mesa Jaramillo, José María",1
+442,"Mesa Nicholls, Alejandro",3
+443,"Michaud-D'Hamiae, L.",1
+444,"Mikhaël, Efraín",1
+445,"Miró, Gabriel",1
+446,"Mockel, Albert",1
+447,"Molina Garcés, Ciro",6
+448,"Molina, Pedro Antonio",1
+449,"Monsalve, José Dolores",2
+450,"Monte, D. L.",1
+451,"Montes Del Valle, Agripina",2
+452,"Montoya Kennedy, F. A.",2
+453,"Montoya Pérez, E.",1
+454,"Montoya Pérez, Rafael",7
+455,"Montoya, Antonio José",19
+456,"Monvel, María",3
+457,"Mora Vásquez, José Manuel",2
+458,"Mora, Félix",1
+459,"Mora, Luis María",1
+460,"Morales Berti, Luis",1
+461,"Morand, Paul",1
+462,"Moréas, Jean",1
+463,"Moreau, Auguste",1
+464,"Moreno Alba, Miguel",2
+465,"Moreno, Abraham",1
+466,"Morice, Charles",1
+467,"Munro, Alick",1
+468,"Murena, Claudio",1
+469,"Murger, Henry",1
+470,"Naranjo Martínez, Enrique",4
+471,"Narváez, Antonio de",2
+472,"Narváez, Roberto",4
+473,"Navarro, M.Donato",1
+474,"Navas Spínola, Domingo",1
+475,"Negueri, D.",3
+476,"Nervo, Amado",10
+477,"Nieto Caballero, Agustín",10
+478,"Nieto Caballero, Luis Eduardo",1
+479,"Nieto, Ricardo",8
+480,"Novicow,F",1
+481,"Núñez, Rafael",2
+482,"O'Kelly, James J.",1
+483,"Obando Cardona, Jorge",15
+484,"Olano, Ricardo",2
+485,"Olaya Herrera, Enrique",2
+486,"Orbigny, Alcide Charles Victor Marie Dessalines de",1
+487,"Ortega, Alfredo",4
+488,"Ortiz V, Manuel",1
+489,"Ortiz, José Joaquín",2
+490,"Ortiz, Venancio",2
+491,"Osorio, Miguel Ángel",7
+492,"Ospina de Navarro, Sofía",1
+493,"Ospina Vásquez, Mariano",10
+494,"Ospina Vásquez, Tulio",1
+495,"Ospina, Pedro Nel",1
+496,"Ouvré, Henry",1
+497,"P.A.",1
+498,"Páez M., Julián",1
+499,"Paiba, Balbino",3
+500,"Paillié, Francisco A.",4
+501,"Palacio M, Obdulio",2
+502,"Palacio Uribe, Tomás",1
+503,"Palacio, Eduardo A.",1
+504,"Palacio, Manuel del",2
+505,"Paláu R, Antonio M.",1
+506,"Paláu, Alfonso",6
+507,"Palma, Clemente",3
+508,"Papini, Giovanni",1
+509,"Pardo Farelo, Enrique",9
+510,"Pardo García, Germán",8
+511,"París, Luis",1
+512,"Parma, Juan de",1
+513,"Parra Toro, Libardo",5
+514,"Pastor Ríos, Justo",1
+515,"Peláez, Aurelio",1
+516,"Peña, Pedro A.",1
+517,"Pereira Gamba, Fortunato",2
+518,"Pereira Gamba, Próspero",6
+519,"Pérez Arbeláez, Enrique",1
+520,"Pérez Monsalva, Santiago",2
+521,"Pérez Nieva, Alfonso",1
+522,"Pérez Triana, Santiago",6
+523,"Pérez Zúñiga, Juan",1
+524,"Pérez, A. J.",1
+525,"Pérez, Felipe",1
+526,"Perrier, Joseph-Luis",1
+527,"Pichardo, S. Manuel",1
+528,"Pinto, Eliseo",1
+529,"Pizano, Marco A.",1
+530,"Pizarro, Alejandro",2
+531,"Poe, Edgar Allan",3
+532,"Pombo, Rafael",7
+533,"Porras, José Ángel",1
+534,"Posada Arango, Andrés",2
+535,"Posada Hernández, Antonio",3
+536,"Posada, Adolfo",1
+537,"Posada, Daniel",4
+538,"Posada, Eduardo",9
+539,"Posada, Guillermo",6
+540,"Posada, José",1
+541,"Prudhomme, Sully",8
+542,"Puga de Losada, Amalia",1
+543,"Pujol y Martínez, Juan",1
+544,"Quevedo Álvarez, Tomás",5
+545,"Quijano, Arturo",5
+546,"R.S.M",1
+547,"Rabot, Charles",1
+548,"Rachilde",1
+549,"Ramírez, Clodomiro",1
+550,"Ramos Ruiz, Gonzalo",1
+551,"Ramos Urdaneta, Alfredo",6
+552,"Ramos, José Luis",1
+553,"Rasch Isla, Miguel",1
+554,"Reina, Manuel",1
+555,"Remouchamps, Victor",1
+556,"Rémy, François",4
+557,"Rendón, Francisco de Paula",2
+558,"Rendón, Ricardo",9
+559,"Restrepo Arango, Lisandro",1
+560,"Restrepo Briceño, Fernando",1
+561,"Restrepo Euse, Álvaro",3
+562,"Restrepo Gómez, Francisco",3
+563,"Restrepo Jaramillo, José",1
+564,"Restrepo Jaramillo, José Luis",1
+565,"Restrepo Maya, José María",3
+566,"Restrepo Olarte, Jesús",5
+567,"Restrepo Restrepo, Antonio María",30
+568,"Restrepo Restrepo, Carlos Eugenio",5
+569,"Restrepo Rivera, José",5
+570,"Restrepo Sáenz, José María",1
+571,"Restrepo Tirado, Ernesto",18
+572,"Restrepo Trujillo, Antonio José",5
+573,"Restrepo, José Manuel",10
+574,"Restrepo, Santiago",1
+575,"Restrepo, Saturnino",46
+576,"Restrepo, Vicente",10
+577,"Revoux, Paul",1
+578,"Riche, Iván",1
+579,"Rilke, Rainer María",1
+580,"Rios De Lamperez, Blanca de los",1
+581,"Rivas Frade, Fedérico",19
+582,"Rivas Groot, Evaristo",1
+583,"Rivas Groot, José María",2
+584,"Rivas, Medardo",2
+585,"Rivas, Raimundo",9
+586,"Rivera y Garrido, Luciano",4
+587,"Robledo, Alfonso",1
+588,"Robledo, Eusebio",6
+589,"Robledo, Jorge Samuel",2
+590,"Rochefort, Henri",1
+591,"Rodó, José Enrique",3
+592,"Rodríguez-Rendueles, M.",1
+593,"Rodríguez E., Carlos E.",4
+594,"Rodriguez Moya, Francisco",5
+595,"Rojas, Jorge",5
+596,"Rojas, Julio A",1
+597,"Rollinar, Maurice",1
+598,"Rosales, Carlos N",1
+599,"Roure, José de",1
+600,"Roux, Hugo Le",1
+601,"Rozo Martínez, Darío",1
+602,"RR.LL",1
+603,"Rubió y Ors, Joaquín",1
+604,"Rueda Vargas, Tomás",3
+605,"Ruíz, Dael",12
+606,"Rusiñol, Santiago",2
+607,"Saavedra Galindo, José Manuel",1
+608,"Saavedra Molina, Julio",1
+609,"Saavedra Zárate, C.",1
+610,"Sacher-Masoch, Leopold von",1
+611,"Saco, Eduardo",1
+612,"Saco, José Antonio",1
+613,"Saint-Victor, Paul de",1
+614,"Saíz, José María",1
+615,"Salamanca, T. D.",1
+616,"Salduba",1
+617,"Samper, Darío",10
+618,"Samper, Emilio",2
+619,"Samper, Miguel",1
+620,"Sánchez, Alberto",20
+621,"Sandino, Adeoldato",2
+622,"Sandino, Aleodato",1
+623,"Sanguily, Manuel",1
+624,"Sanín Cano, Baldomero",31
+625,"Santa María Vermersch, R.",3
+626,"Santos, Gustavo",2
+627,"Savage, R.H.",6
+628,"Scarpeta, Oswaldo",1
+629,"Schafi, Mirza",1
+630,"Schiller, Friedrich",1
+631,"Schopenhauer, Arthur",1
+632,"Schwob, L.",1
+633,"Schwob, Marcel",8
+634,"Scribe, Eugène",1
+635,"Segovia, L",1
+636,"Serao, Matilde",2
+637,"Sevilla, Rafael",1
+638,"Sienkiewicz, Henryk",1
+639,"Sierra, Justo",1
+640,"Silva Cruz, Carlos",1
+641,"Silva Vidal, Ismael",1
+642,"Silva, José Asunción",21
+643,"Silvestre, Armand",1
+644,"Solano Patiño, José",3
+645,"Soto Borda, Clímaco",8
+646,"Soto, Aquilino",1
+647,"Suarès, André",1
+648,"Suárez, Roberto",1
+649,"Tablada, José Juan",2
+650,"Taboada, Luis",2
+651,"Talero Núñez, Eduardo",1
+652,"Talleyrand, Charles Maurice de",1
+653,"Tamayo, Carlos",1
+654,"Taunay, Vizconde de",1
+655,"Tejada Cano, Luis",5
+656,"Tejada Córdoba, Blas",10
+657,"Tejera, Felipe",1
+658,"Terán, Luis María",1
+659,"Tirado Macías, Ricardo",1
+660,"Tobar, Alfonso",1
+661,"Tobon Tobon, Lazaro",1
+662,"Toché, Raoul",1
+663,"Tolstói, Lev Nikoláievich",1
+664,"Toro Isaza, J.",3
+665,"Torres Durán, Carlos",3
+666,"Torres Pinzón, Carlos Arturo",1
+667,"Torres, Carlos Arturo",3
+668,"Toudouze, Georges-Gustave",1
+669,"Trespalacios, Jesús María",1
+670,"Triana, Miguel",2
+671,"Turgenev, Ivan",1
+672,"Ugarte, Manuel",2
+673,"Umaña Bernal, José",16
+674,"Unamuno, Miguel de",3
+675,"Urdaneta Ramos, Alfredo",1
+676,"Uribe Ángel, Manuel",9
+677,"Uribe Gómez, Pedro",4
+678,"Uribe Holguin, Guillermo",2
+679,"Uribe Lince, Gabriel",4
+680,"Uribe Mejía, F. A.",1
+681,"Uribe, Antonio José",4
+682,"Uribe, Basiliso",1
+683,"Uribe, Diego",10
+684,"Uribe, Joaquín Antonio",4
+685,"Urrecha, Federico",1
+686,"Urrutia, Francisco José",3
+687,"V.O",1
+688,"Valcarce García, Javier",1
+689,"Valencia, Francisco",20
+690,"Valencia, Guillermo",17
+691,"Valencia, Miguel Santiago",3
+692,"Valenzuela, Eduardo",1
+693,"Valenzuela, Teodoro",1
+694,"Valle-Inclán, Ramón del",3
+695,"Vallés, L",1
+696,"Vargas Tamayo, Roberto",3
+697,"Vargas Vila, José María",2
+698,"Vargas, Justo",1
+699,"Varigny, Charles Victor Crosnier",1
+700,"Vasco Gutiérrez, Eduardo",7
+701,"Vásquez, Honorato",1
+702,"Vásquez, Juan de Dios",1
+703,"Vázquez B., A.",1
+704,"Vega, Alejandro",6
+705,"Vega, Daniel de la",1
+706,"Velásquez Botero, Samuel",1
+707,"Velásquez García, José",23
+708,"Velásquez, Edmundo",4
+709,"Velázquez, Alejandro",1
+710,"Vélez Barrientos, Lucrecio",13
+711,"Vélez, Bonifacio",1
+712,"Vélez, Eladio",1
+713,"Vélez, Guillermo",2
+714,"Vélez, Salvador",3
+715,"Vélez, Victoriano",3
+716,"Vélez, Victorino",2
+717,"Verbrugghe, Georges",2
+718,"Verbrugghe, Louis Émile",2
+719,"Vergara y Vergara, José María",1
+720,"Verhaeren, Émile",1
+721,"Vidal Pacheco, Gonzalo",1
+722,"Vieco Ortíz, Luis Eduardo",2
+723,"Villa Carrasquilla, Jorge",6
+724,"Villa López, Francisco",3
+725,"Villa Vélez, Eduardo",1
+726,"Villa, Eduardo",1
+727,"Villaespesa, Francisco",2
+728,"Villafañe, Carlos",9
+729,"Villegas Arango, Alfonso",1
+730,"Villegas, Aquilino",6
+731,"Villegas, Luis Eduardo",5
+732,"Villegas, Marco A.",1
+733,"Villiers de L'Isle-Adam, Auguste de",3
+734,"Visan, Tancrède de",1
+735,"Vives, Luis",5
+736,"Wilde, Oscar",6
+737,"Wyzewa, Teodor de",1
+738,"Xanrof, León",1
+739,"Yepes Morales, Jesús",1
+740,"Yver, Colette",1
+741,"Z y Z.",1
+742,"Zaavedra Zárate, G.",1
+743,"Zamacois, Eduardo",1
+744,"Zapata, Felipe",1
+745,"Zolá, Emile",1
+746,"Zuleta Gaviria, Eduardo",1
+747,"Zuleta, Juan A.",2
+748,"Zuluaga y Gutiérrez, Alfredo",3
